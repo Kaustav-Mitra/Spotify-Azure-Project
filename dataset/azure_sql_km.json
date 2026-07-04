@@ -1,0 +1,12 @@
+{
+	"name": "azure_sql_km",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "azls_azure_sql_km",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
